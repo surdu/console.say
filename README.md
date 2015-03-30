@@ -10,7 +10,7 @@ First, you need to install the `console.say` node.js package with the following 
 
 Then you need to bind console.say to yout http server like so:
 
-```JavaScript
+```javascript
 require('console.say').bind(http);
 ```
 
