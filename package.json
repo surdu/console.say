@@ -1,6 +1,6 @@
 {
   "name": "console.say",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple chat that runs in the developer tools/Firebug console",
   "main": "lib/console.say.js",
   "scripts": {
